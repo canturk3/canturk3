@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @canturk3
-- 👀 I’m interested in aritifical intelligence and game development
-- 📫 How to reach me: https://www.linkedin.com/in/can-t%C3%BCrk-k%C3%BC%C3%A7%C3%BCk-56a82b222/
+- 📫 How to reach me: https://www.linkedin.com/in/can-t%C3%BCrk-k%C3%BC%C3%A7%C3%BCk/
